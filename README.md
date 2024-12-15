@@ -1,2 +1,3 @@
 # ResponsivePage
-I created Responsive page using HTML and CSS
+Here is my responsive page using HTML and CSS
+
